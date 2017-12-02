@@ -1,4 +1,4 @@
-# NoDungeonGuardian [![Github All Releases](https://img.shields.io/github/downloads/deadsurgeon42/NoDungeonGuardian/total.svg)](https://github.com/deadsurgeon42/NoDungeonGuardian/releases/latest)
+# <img src="logo.png" width="24" />NoDungeonGuardian [![Github All Releases](https://img.shields.io/github/downloads/deadsurgeon42/NoDungeonGuardian/total.svg)](https://github.com/deadsurgeon42/NoDungeonGuardian/releases/latest)
 Stop dungeon guardians and dayprimes before they harm anyone.
 
 This plugin requires no configuration and handles:
